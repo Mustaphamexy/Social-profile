@@ -62,6 +62,10 @@ body {
     transition: .5s;
 }
 
+a {
+    text-decoration: none;
+}
+
 .link-btn:hover {
     border-color: #12ae12;
     color: #12ae12;
